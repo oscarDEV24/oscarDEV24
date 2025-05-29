@@ -8,15 +8,19 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+Soy estudiante de Ingeniería de Sistemas en la Universidad César Vallejo. Me apasiona la tecnología, el desarrollo web y crear soluciones digitales que impacten positivamente.
+Actualmente tengo experiencia en HTML, CSS, JavaScript, PHP, MySQL, Python y Shell, y estoy trabajando con Laravel y Next.js.
+
+🚀 Me interesa el diseño web, el desarrollo de sistemas y la inteligencia artificial.
+
+🌱 En este momento estoy aprendiendo más sobre React, Next.js y bases de datos relacionales.
+
+🤝 Estoy abierto a colaborar en proyectos open source o ideas que generen impacto.
+
+💬 Pregúntame sobre desarrollo web, bases de datos o ideas de proyectos, ¡estaré encantado de ayudarte si está en mis manos! 😉
+
+Fuera del código, me encanta la música de Taylor Swift 🎶, leer sobre tecnología 🤖 y disfrutar de la naturaleza 🌿.
+- 📫 Contactame: <a href="oscardeveloperweb@gmail.com">oscardeveloperweb@gmail.com</a>
 
 ## My Skills Include
 
@@ -57,3 +61,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   <a href="https://www.linkedin.com/in/oscar-ernesto-nu%C3%B1ez-trelles-a4b089352/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=oscarDEV24&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/oscarDEV24)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=oscarDEV24&theme=material-palenight)](https://github.com/oscarDEV24)
+</div>
